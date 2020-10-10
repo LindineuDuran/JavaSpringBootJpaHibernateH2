@@ -1,0 +1,3 @@
+## Java Spring Boot - JPA - Hibernate - H2 - One To One Unidirectional Relationship - @OneToOne
+Implementation of one to one unidirectional relationship using Java, Spring Boot, JPA, Hibernate and H2 in memory database. We will start with generating project and adding all of the necessary dependencies. Later on we will create entities and then we will create a one to one relationship between them. We will persist example data in database using CRUD repositories to test out if our mapping works correctly. We will track everything using H2 console. Everything with in-depth explanation! Keep playing with code!
+- [Based on an example by José Carlos Macoratti](https://www.youtube.com/watch?v=Svpcn5wJ8CU&ab_channel=CodeForgeYT)
